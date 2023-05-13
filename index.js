@@ -9,6 +9,7 @@ const names = [
   "Caezzy Jhonn Bongcayao",
   "Joven Motul Ison",
   "Jerome M. Legaspi",
+  "Raja Jeff Edward Marimuthu",
 ];
 
 for (let i = 0; i < names.length; i++) {
