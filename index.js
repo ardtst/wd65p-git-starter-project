@@ -6,7 +6,7 @@ const names = [
   "Jessica Culcul",
   "Ian Noble",
   "Jomell Hope Dela Pena",
-  "Jerome Legaspi",
+  "Jerome M. Legaspi",
   "Caezzy Jhonn Bongcayao",
 ];
 
