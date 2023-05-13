@@ -9,11 +9,8 @@ const names = [
   "Caezzy Jhonn Bongcayao",
   "Joven Motul Ison",
   "Jerome M. Legaspi",
-<<<<<<< HEAD
   "Raja Jeff Edward Marimuthu",
-=======
-  "Jerry Joy Ismael"
->>>>>>> fffae393178a48b13052e56347adbbad60df535c
+  "Jerry Joy Ismael" ,
 ];
 
 for (let i = 0; i < names.length; i++) {
