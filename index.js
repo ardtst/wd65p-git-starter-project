@@ -1,5 +1,4 @@
-const names = ['Juan Dela Cruz', 'Jomell Hope Dela Pena']
-const names = ['Juan Dela Cruz', 'John Eric Yuzon','Aveunalliv Dasalla', 'John Angelo David', 'Jessica Culcul', 'Ian Noble']
+const names = ['Juan Dela Cruz', 'John Eric Yuzon','Aveunalliv Dasalla', 'John Angelo David', 'Jessica Culcul', 'Ian Noble','Jomell Hope Dela Pena']
 
 
 for(let i = 0; i < names.length; i++) {
