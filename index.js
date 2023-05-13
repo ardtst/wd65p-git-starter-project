@@ -6,9 +6,9 @@ const names = [
   "Jessica Culcul",
   "Ian Noble",
   "Jomell Hope Dela Pena",
-  "Jerome M. Legaspi",
   "Caezzy Jhonn Bongcayao",
   "Joven Motul Ison"
+  "Jerome M. Legaspi",
 ];
 
 for (let i = 0; i < names.length; i++) {
