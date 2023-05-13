@@ -8,6 +8,7 @@ const names = [
   "Jomell Hope Dela Pena",
   "Jerome M. Legaspi",
   "Caezzy Jhonn Bongcayao",
+  "Joven Motul Ison"
 ];
 
 for (let i = 0; i < names.length; i++) {
