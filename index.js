@@ -11,6 +11,7 @@ const names = [
     "Jerome M. Legaspi",
     "Raja Jeff Edward Marimuthu",
     "Jerry Joy Ismael" ,
+    "Bianca Louise Dantic" ,
   ];
   
   for (let i = 0; i < names.length; i++) 
