@@ -4,6 +4,7 @@ const names = [
     "Aveunalliv Dasalla",
     "John Angelo David",
     "Jessica Culcul",
+    "Dominic Lopez",
     "Ian Noble",
     "Jomell Hope Dela Pena",
     "Caezzy Jhonn Bongcayao",
